@@ -1,0 +1,41 @@
+<resources>
+    <string name="app_name">Pizzeria Don Corleone</string>
+    <string name="txt_lbl_size">Pick your pizza size</string>
+    <string name="txt_lbl_toppings">Pick your toppings</string>
+    <string name="txt_btn_order">Place order</string>
+    <string name="txt_toppings_title">Choose toppings</string>
+    <string name="txt_size_title">Pick a size</string>
+    <string name="txt_order_confirm">Thank you for ordering</string>
+    <string name="txt_order_faulty">Can\'t order before composing your pizza</string>
+    <string name="txt_order_incomplete">Pick both a size and toppings</string>
+    <string name="txt_order_missing_toppings">Please pick your toppings</string>
+    <string name="txt_order_missing_size">Please pick a size</string>
+    <string name="txt_order_undo">Cancel order</string>
+
+    <string-array name="topping_list">
+        <item>Tomato base</item>
+        <item>Mushrooms</item>
+        <item>Minced meat</item>
+        <item>Onions</item>
+        <item>Peperoni</item>
+        <item>Peppers</item>
+        <item>Mozarella</item>
+        <item>Pineapple</item>
+        <item>Oregano</item>
+        <item>Cheddar</item>
+        <item>Salami</item>
+        <item>Chicken</item>
+        <item>Olives</item>
+        <item>Ansjovis</item>
+        <item>BBQ sauce</item>
+    </string-array>
+
+    <string-array name="size_list">
+        <item>Slice</item>
+        <item>Small</item>
+        <item>Medium</item>
+        <item>Large</item>
+        <item>American</item>
+    </string-array>
+
+</resources>
